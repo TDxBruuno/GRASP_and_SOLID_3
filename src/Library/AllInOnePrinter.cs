@@ -3,7 +3,7 @@
 // Copyright (c) Programación II. Derechos reservados.
 // </copyright>
 //---------------------------------------------------------------------------------
-using System;
+/* using System;
 using System.IO;
 
 namespace Full_GRASP_And_SOLID.Library
@@ -28,4 +28,4 @@ namespace Full_GRASP_And_SOLID.Library
             }
         }
     }
-}
+} */
